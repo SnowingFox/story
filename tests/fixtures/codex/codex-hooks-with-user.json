@@ -1,0 +1,10 @@
+{
+	"hooks": {
+		"Stop": [
+			{
+				"matcher": null,
+				"hooks": [{ "type": "command", "command": "echo \"the entire workflow finished\"" }]
+			}
+		]
+	}
+}

@@ -1,0 +1,14 @@
+{
+  "skills": {
+    "grill-me": {
+      "source": "github:mattpocock/skills",
+      "path": "skills/productivity/grill-me",
+      "version": "main@b843cb5ea74b1fe5e58a0fc23cddef9e66076fb8"
+    },
+    "tdd": {
+      "source": "github:mattpocock/skills",
+      "path": "skills/engineering/tdd",
+      "version": "main@b843cb5ea74b1fe5e58a0fc23cddef9e66076fb8"
+    }
+  }
+}

@@ -1,0 +1,4 @@
+{"timestamp":"2026-04-20T15:30:45.000Z","type":"session_meta","payload":{"id":"sess-tok","timestamp":"2026-04-20T15:30:45.000Z"}}
+{"timestamp":"2026-04-20T15:30:46.000Z","type":"event_msg","payload":{"type":"token_count","info":{"total_token_usage":{"input_tokens":100,"cached_input_tokens":10,"output_tokens":50,"reasoning_output_tokens":5,"total_tokens":165}}}}
+{"timestamp":"2026-04-20T15:30:47.000Z","type":"event_msg","payload":{"type":"token_count","info":{"total_token_usage":{"input_tokens":300,"cached_input_tokens":30,"output_tokens":150,"reasoning_output_tokens":15,"total_tokens":495}}}}
+{"timestamp":"2026-04-20T15:30:48.000Z","type":"event_msg","payload":{"type":"token_count","info":{"total_token_usage":{"input_tokens":600,"cached_input_tokens":60,"output_tokens":300,"reasoning_output_tokens":30,"total_tokens":990}}}}

@@ -1,0 +1,4 @@
+{"timestamp":"2026-04-20T15:30:45.000Z","type":"session_meta","payload":{"id":"sess-c","timestamp":"2026-04-20T15:30:45.000Z"}}
+{"timestamp":"2026-04-20T15:30:46.000Z","type":"response_item","payload":{"type":"compaction","summary":"older turns compacted"}}
+{"timestamp":"2026-04-20T15:30:47.000Z","type":"response_item","payload":{"type":"compaction_summary","text":"summary text"}}
+{"timestamp":"2026-04-20T15:30:48.000Z","type":"response_item","payload":{"type":"message","role":"user","content":[{"type":"input_text","text":"new prompt"}]}}

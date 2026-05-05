@@ -1,0 +1,2 @@
+{"timestamp":"2026-04-20T15:30:45.000Z","type":"session_meta","payload":{"id":"sess-utf8","timestamp":"2026-04-20T15:30:45.000Z"}}
+{"timestamp":"2026-04-20T15:30:46.000Z","type":"response_item","payload":{"type":"custom_tool_call","status":"completed","call_id":"call_utf8","name":"apply_patch","input":"*** Begin Patch\n*** Add File: src/app-中文.ts\n+console.log('你好');\n*** Update File: src/emoji-🎉.ts\n@@\n-old\n+new\n*** End Patch\n"}}

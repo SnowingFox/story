@@ -1,0 +1,4 @@
+{"time":"2026-04-22T15:59:22Z","level":"DEBUG","msg":"perf","op":"post-rewrite","duration_ms":56,"error":false,"steps.load-sessions_ms":12,"steps.rewrite-checkpoints_ms":31,"steps.flush-log_ms":13}
+{"time":"2026-04-22T16:02:10Z","level":"INFO","msg":"installed shadow session","session_id":"sess-abc123","component":"hooks"}
+{"time":"2026-04-22T16:03:47Z","level":"DEBUG","msg":"perf","op":"commit-msg","duration_ms":11,"error":false,"steps.read-buffer_ms":1,"steps.inject-base-commit_ms":3,"steps.inject-story-session_ms":4,"steps.write-buffer_ms":3}
+{"time":"2026-04-22T16:04:11Z","level":"DEBUG","msg":"perf","op":"post-commit","duration_ms":42,"error":false,"steps.load-session_ms":3,"steps.parse-transcript_ms":11,"steps.build-trailer_ms":2,"steps.write-checkpoint_ms":18,"steps.update-metadata_ms":6,"steps.flush-log_ms":2}

@@ -1,0 +1,5 @@
+{"time":"2026-04-22T16:04:11Z","level":"DEBUG","msg":"perf","op":"post-commit","duration_ms":42}
+this is not json at all
+{"time":"2026-04-22T16:03:47Z","level":"DEBUG","msg":"perf","op":"commit-msg","duration_ms":11}
+{partial-broken-json
+{"time":"2026-04-22T15:59:22Z","level":"DEBUG","msg":"perf","op":"post-rewrite","duration_ms":56}

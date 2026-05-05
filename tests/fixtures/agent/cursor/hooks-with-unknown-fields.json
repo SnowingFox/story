@@ -1,0 +1,9 @@
+{
+	"version": 1,
+	"cursorSettings": { "theme": "dark" },
+	"hooks": {
+		"stop": [{ "command": "echo user stop" }],
+		"onNotification": [{ "command": "echo notify", "filter": "error" }],
+		"customHook": [{ "command": "echo custom" }]
+	}
+}

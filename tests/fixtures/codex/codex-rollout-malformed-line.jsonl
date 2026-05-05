@@ -1,0 +1,4 @@
+{"timestamp":"2026-04-20T15:30:45.000Z","type":"session_meta","payload":{"id":"sess-bad","timestamp":"2026-04-20T15:30:45.000Z"}}
+{"timestamp":"2026-04-20T15:30:46.000Z","type":"response_item","payload":{"type":"message","role":"user","content":[{"type":"input_text","text":"good line 1"}]}}
+this is not json at all
+{"timestamp":"2026-04-20T15:30:48.000Z","type":"response_item","payload":{"type":"message","role":"user","content":[{"type":"input_text","text":"good line 2"}]}}

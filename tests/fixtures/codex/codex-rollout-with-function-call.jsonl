@@ -1,0 +1,4 @@
+{"timestamp":"2026-04-20T15:30:45.000Z","type":"session_meta","payload":{"id":"sess-fc","timestamp":"2026-04-20T15:30:45.000Z"}}
+{"timestamp":"2026-04-20T15:30:46.000Z","type":"response_item","payload":{"type":"message","role":"assistant","content":[{"type":"output_text","text":"Reading the file."}]}}
+{"timestamp":"2026-04-20T15:30:47.000Z","type":"response_item","payload":{"type":"function_call","name":"read_file","arguments":"{\"path\":\"src/main.ts\"}","call_id":"call_fc_1"}}
+{"timestamp":"2026-04-20T15:30:48.000Z","type":"response_item","payload":{"type":"function_call_output","call_id":"call_fc_1","output":"export const x = 1;"}}

@@ -1,0 +1,4 @@
+{"timestamp":"2026-04-20T15:30:45.000Z","type":"session_meta","payload":{"id":"sess-1","timestamp":"2026-04-20T15:30:45.000Z"}}
+{"timestamp":"2026-04-20T15:30:46.000Z","type":"response_item","payload":{"type":"message","role":"assistant","content":[{"type":"output_text","text":"Applying patch."}]}}
+{"timestamp":"2026-04-20T15:30:47.000Z","type":"response_item","payload":{"type":"custom_tool_call","status":"completed","call_id":"call_1","name":"apply_patch","input":"*** Begin Patch\n*** Add File: src/foo.ts\n+console.log('foo');\n*** Update File: src/bar.ts\n@@\n-old\n+new\n*** Delete File: src/baz.ts\n*** End Patch\n"}}
+{"timestamp":"2026-04-20T15:30:48.000Z","type":"response_item","payload":{"type":"custom_tool_call_output","call_id":"call_1","output":{"type":"text","text":"Success. 3 files changed."}}}

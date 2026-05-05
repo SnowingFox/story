@@ -1,0 +1,3 @@
+{"timestamp":"2026-04-20T15:30:45.000Z","type":"session_meta","payload":{"id":"sess-r","timestamp":"2026-04-20T15:30:45.000Z"}}
+{"timestamp":"2026-04-20T15:30:46.000Z","type":"response_item","payload":{"type":"reasoning","summary":[],"content":null,"encrypted_content":"REDACTED-SHOULD-BE-STRIPPED"}}
+{"timestamp":"2026-04-20T15:30:47.000Z","type":"response_item","payload":{"type":"message","role":"assistant","content":[{"type":"output_text","text":"hi"}]}}
