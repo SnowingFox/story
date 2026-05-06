@@ -26,7 +26,7 @@ that is stated elsewhere.
 ## Installation
 
 ```bash
-npm install -g @snowingfox/story
+npm install -g @storyio/cli
 story --help
 ```
 
